@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/matthewmueller/go-chunk"
-	"github.com/stretchr/testify/assert"
+	"github.com/tj/assert"
 )
 
 func TestReadPipe(t *testing.T) {
