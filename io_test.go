@@ -3,7 +3,7 @@ package chunk_test
 import (
 	"testing"
 
-	"github.com/matthewmueller/chunk"
+	"github.com/matthewmueller/go-chunk"
 	"github.com/stretchr/testify/assert"
 )
 
